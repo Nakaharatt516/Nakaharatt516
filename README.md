@@ -93,6 +93,3 @@ Java、TypeScript、JavaScriptを中心とした**バックエンドからフロ
 
 ---
 
-## ✉️ Contact
-お仕事のご相談やカジュアル面談など、お気軽にどうぞ！
-* **GitHub**: [Nakaharatt516](https://github.com/Nakaharatt516)
