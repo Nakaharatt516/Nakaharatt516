@@ -1,0 +1,38 @@
+<svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes typing { 
+                    from { width: 0; } 
+                    to { width: 34ch; }
+                }
+                @keyframes blink-caret { 
+                    50% { border-color: transparent; } 
+                }
+                .container {
+                    width: 100%;
+                    height: 100%;
+                    background: #0d1117; /* GitHubのダークテーマの背景色に同化させる */
+                    border-radius: 5px;
+                    display: flex;
+                    align-items: center;
+                }
+
+                h1 {
+                    font: bold 180% Consolas, Monaco, monospace;
+                    border-right: .15em solid #00f0ff;
+                    width: 34ch;
+                    margin: 0 auto; /* 中央寄せ */
+                    white-space: nowrap;
+                    overflow: hidden;
+                    animation: typing 3s steps(34, end), blink-caret .75s step-end infinite alternate;
+                    color: #00f0ff; /* プレミアムなサイバーネオンブルー */
+                    text-shadow: 0 0 8px rgba(0, 240, 255, 0.6);
+                }
+            </style>
+            <div class="container">
+                <h1>Welcome to Nakaharatt516's GitHub!</h1>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
